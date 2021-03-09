@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956424409769",
+    "project_id": "mlkitonline-5275b",
+    "storage_bucket": "mlkitonline-5275b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956424409769:android:135352aac39ef543664fb8",
+        "android_client_info": {
+          "package_name": "com.example.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956424409769-hqmub23tdb6grkqsa5g1vkhsvr38qcg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDkp78UWnO_frhmvG6LEoHkU9OFj7aO2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956424409769-hqmub23tdb6grkqsa5g1vkhsvr38qcg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
